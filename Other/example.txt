@@ -1,0 +1,263 @@
+Message response:
+{
+    "id": "1216152072987344987",
+    "type": 19,
+    "content": "<@1071223134142861363>",
+    "channel_id": "1071224128562016287",
+    "author": {
+        "id": "348325041504649227",
+        "username": "dappro",
+        "avatar": "42afe1a9723f06ad1f970c0bf1b32351",
+        "discriminator": "0",
+        "public_flags": 64,
+        "premium_type": 0,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Dappro",
+        "avatar_decoration_data": null,
+        "banner_color": null
+    },
+    "attachments": [
+        {
+            "id": "1216152072660193380",
+            "filename": "eeeeee.png",
+            "size": 29621,
+            "url": "https://cdn.discordapp.com/attachments/1071224128562016287/1216152072660193380/eeeeee.png?ex=65ff58e1&is=65ece3e1&hm=ec4bceb62d914752a44b6a43a4b489e5a6918a917a26f618234834a3deb40de8&",        
+            "proxy_url": "https://media.discordapp.net/attachments/1071224128562016287/1216152072660193380/eeeeee.png?ex=65ff58e1&is=65ece3e1&hm=ec4bceb62d914752a44b6a43a4b489e5a6918a917a26f618234834a3deb40de8&",            "width": 1002,
+            "height": 83,
+            "content_type": "image/png",
+            "placeholder": "0gcGAYCIVnWgiSh2/Hvof4k=",
+            "placeholder_version": 1
+        }
+    ],
+    "embeds": [],
+    "mentions": [
+        {
+            "id": "1071223134142861363",
+            "username": "terrytime.",
+            "avatar": "66682bcb64ab0143d52c1f45ca461a95",
+            "discriminator": "0",
+            "public_flags": 0,
+            "premium_type": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "TerryTime",
+            "avatar_decoration_data": null,
+            "banner_color": null
+        }
+    ],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2024-03-09T22:34:09.213000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "message_reference": {
+        "channel_id": "1071224128562016287",
+        "message_id": "1216148181763756083"
+    },
+    "referenced_message": {
+        "id": "1216148181763756083",
+        "type": 0,
+        "content": "Hello!",
+        "channel_id": "1071224128562016287",
+        "author": {
+            "id": "1071223134142861363",
+            "username": "terrytime.",
+            "avatar": "66682bcb64ab0143d52c1f45ca461a95",
+            "discriminator": "0",
+            "public_flags": 0,
+            "premium_type": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "TerryTime",
+            "avatar_decoration_data": null,
+            "banner_color": null
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2024-03-09T22:18:41.473000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": []
+    }
+}
+
+Guild list response:
+[
+    {
+        "id": "1118568139752484895",
+        "name": "High-school HP Cult",
+        "icon": "74aab1b649f0254983ec33aea18396eb",
+        "owner": false,
+        "permissions": "146138513919552",
+        "features": [
+            "PREVIEW_ENABLED",
+            "AUTO_MODERATION",
+            "GUILD_ONBOARDING",
+            "SOUNDBOARD",
+            "GUILD_ONBOARDING_HAS_PROMPTS",
+            "THREE_DAY_THREAD_ARCHIVE",
+            "GUILD_ONBOARDING_EVER_ENABLED",
+            "COMMUNITY",
+            "ANIMATED_ICON",
+            "CHANNEL_ICON_EMOJIS_GENERATED",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "CREATOR_ACCEPTED_NEW_TERMS",
+            "PRODUCTS_AVAILABLE_FOR_PURCHASE",
+            "CREATOR_MONETIZABLE_PROVISIONAL",
+            "ROLE_SUBSCRIPTIONS_ENABLED",
+            "INVITE_SPLASH",
+            "NEWS"
+        ]
+    },
+    {
+        "id": "1190425798046384159",
+        "name": "Terry Town",
+        "icon": "fefd32e0ad4205fe68b914ae335fd500",
+        "owner": true,
+        "permissions": "562949953421311",
+        "features": [
+            "CHANNEL_ICON_EMOJIS_GENERATED"
+        ]
+    }
+]
+
+Channel list response:
+[
+    {
+        "id": "1190425800055472158",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1190425798046384159",
+        "name": "Text Channels",
+        "parent_id": null,
+        "position": 0,
+        "permission_overwrites": []
+    },
+    {
+        "id": "1190425800055472159",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1190425798046384159",
+        "name": "Voice Channels",
+        "parent_id": null,
+        "position": 1,
+        "permission_overwrites": []
+    },
+    {
+        "id": "1190425800055472160",
+        "type": 0,
+        "last_message_id": "1190443393373966368",
+        "flags": 0,
+        "guild_id": "1190425798046384159",
+        "name": "general",
+        "parent_id": "1190425800055472158",
+        "rate_limit_per_user": 0,
+        "topic": "Talk about whatever here.",
+        "position": 0,
+        "permission_overwrites": [
+            {
+                "id": "1190425798046384159",
+                "type": 0,
+                "allow": "0",
+                "deny": "2048"
+            }
+        ],
+        "nsfw": false,
+        "icon_emoji": {
+            "id": null,
+            "name": "\ud83d\udc4b"
+        },
+        "theme_color": null
+    },
+    {
+        "id": "1190425800055472162",
+        "type": 2,
+        "last_message_id": null,
+        "flags": 0,
+        "guild_id": "1190425798046384159",
+        "name": "General",
+        "parent_id": "1190425800055472159",
+        "rate_limit_per_user": 0,
+        "bitrate": 64000,
+        "user_limit": 0,
+        "rtc_region": null,
+        "position": 0,
+        "permission_overwrites": [],
+        "nsfw": false,
+        "icon_emoji": {
+            "id": null,
+            "name": "\ud83c\udf99\ufe0f"
+        },
+        "theme_color": null,
+        "voice_background_display": null
+    },
+    {
+        "id": "1190933238244442122",
+        "type": 0,
+        "last_message_id": "1191507542451425290",
+        "flags": 0,
+        "guild_id": "1190425798046384159",
+        "name": "test",
+        "parent_id": "1190425800055472158",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 1,
+        "permission_overwrites": [],
+        "nsfw": false,
+        "icon_emoji": {
+            "id": null,
+            "name": "\ud83c\udf10"
+        },
+        "theme_color": null
+    },
+    {
+        "id": "1191085983521853461",
+        "type": 0,
+        "last_message_id": "1193988057653841990",
+        "flags": 0,
+        "guild_id": "1190425798046384159",
+        "name": "general",
+        "parent_id": "1190425800055472159",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 3,
+        "permission_overwrites": [],
+        "nsfw": false,
+        "icon_emoji": {
+            "id": null,
+            "name": "\ud83c\udf10"
+        },
+        "theme_color": null
+    },
+    {
+        "id": "1191086001725120542",
+        "type": 0,
+        "last_message_id": "1215907807682105364",
+        "flags": 0,
+        "guild_id": "1190425798046384159",
+        "name": "general",
+        "parent_id": "1190425800055472158",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 2,
+        "permission_overwrites": [],
+        "nsfw": false,
+        "icon_emoji": {
+            "id": null,
+            "name": "\ud83c\udf10"
+        },
+        "theme_color": null
+    }
+]
