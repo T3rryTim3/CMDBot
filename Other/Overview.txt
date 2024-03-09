@@ -1,0 +1,11 @@
+Main goal: Act as an automated user in discord; send messages, respond to people, and simulate other actions a user might take.
+
+The bot will follow this timeline which depicts which actions should be taken.
+Timeline:
+    - Scan guilds and their channels.
+    - Find channels of priority (Ones with the bot's username, or replies to it's messages)
+
+Channel priority list (Top is most important):
+    - Channel with the bot's name in messages
+    - Channel with multiple recent messages
+    - Channels with a question
